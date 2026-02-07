@@ -1,0 +1,8 @@
+monitor
+a.out
+settings.json
+*.o
+*.json
+build/*
+report.txt
+System-Monitor.pro.user
