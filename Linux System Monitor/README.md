@@ -11,7 +11,7 @@
 
 Currently application runs only with linux. I plan to add windows support later.
 
-## Dependencies for Running Locally
+## Dependencies for Running Locally.
 
 * QT >= 5.15 
   * You can download QT [here](https://www.qt.io/download). Developed under QT Creator
